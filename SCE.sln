@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCE.Data", "SCE.Data\SCE.Data.csproj", "{8C12BC80-8E65-4218-A1F8-BB92A484C03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCE.Web", "SCE.Web\SCE.Web.csproj", "{70362AE6-D774-4801-93E4-31596D41AF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C12BC80-8E65-4218-A1F8-BB92A484C03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C12BC80-8E65-4218-A1F8-BB92A484C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C12BC80-8E65-4218-A1F8-BB92A484C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C12BC80-8E65-4218-A1F8-BB92A484C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70362AE6-D774-4801-93E4-31596D41AF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70362AE6-D774-4801-93E4-31596D41AF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70362AE6-D774-4801-93E4-31596D41AF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70362AE6-D774-4801-93E4-31596D41AF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C599D7-1974-408C-B3C4-6C488316D6A9}
+	EndGlobalSection
+EndGlobal
